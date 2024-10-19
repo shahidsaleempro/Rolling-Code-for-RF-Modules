@@ -11,7 +11,7 @@ Arduino-based implementation for easy integration
 # Motivation
 This project was born out of the need for a secure rolling code TX RX solution in a recent project, where replay attacks and unauthorized access were significant concerns. By sharing this implementation, we aim to provide a reliable and easy-to-use solution for makers and developers working with RF modules.
 # Requirements
-Arduino board (e.g., Arduino Uno, ESP8266, ESP32)
+Arduino board (e.g., Arduino Uno, ESP8266, ESP32) I am using ESP8266.
 315/433 MHz RF transmitter (TX) (RX) modules
 RH_ASK library
 xxtea-iot-crypt library
